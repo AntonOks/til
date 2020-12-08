@@ -3,50 +3,16 @@
 
 # Today I Learned
 
-This was formerly a place where I store short descriptions of things I learn each day. This repo is no longer used, instead see [TIL.secretGeek.net](https://TIL.secretGeek.net/)
+This is a clone of [Leon Bambrick's "TIL" GitHub repo](https://github.com/secretGeek/til)
 
-<br />&mdash;Leon Bambrick.
-
-Available online:
+He has additional informations available online:
 
 - [TIL.secretGeek.net](https://TIL.secretGeek.net/)
 - [HTML Source repo](https://github.com/secretGeek/today-i-learned)
 - [Markdown Source repo](https://github.com/secretGeek/today-i-learned-staging)
-- Generated with [clowncar🤡🚗](https://github.com/secretGeek/clowncar), markdown conversion by [markdig](https://github.com/lunet-io/markdig)
-
-## Guidelines
-
-Should be factoids that you expect to need to refer to again. Hence, any factoid that is "Well that's interesting!" but would *never* be referenced again is NOT wanted here. So they mostly end up being technical things (though the [concepts](concepts/01_summary.md) category is a major exception).
-
-The folder structure means things are categorised by ONE main topic, not tagged with endless topics/subtopics.
-
-## Inspired by
-
- * https://github.com/jbranchaud/til &mdash; as seen on https://news.ycombinator.com/item?id=11068902
- * https://github.com/thoughtbot/til
- * https://github.com/jwworth/til
-
-## See Also
-
- * http://wiki.secretGeek.net (wiki for things I find fascinating)
- * http://www.secretGeek.net (blog)
-
-## Get this book...
-
-<p><a href='https://YourFirstProduct.com'><img src='yfp_book.png' title='Your First Product' alt='Your First Product' /></a></p>
 
 
-Though this site is published as a free digital-only book, I've also published a *real* book.
-
-**[Choose Your First Product](https://YourFirstProduct.com)** helps creators find a suitable idea for their first digital product. If you want to build products, please learn more at [https://YourFirstProduct.com](https://YourFirstProduct.com). Thank you.
-
-
-
-
-
-
-
-## Topics
+## Topics covered in this repo
 
 |Topic|# Articles|
 |-----|----------|
@@ -141,7 +107,3 @@ Though this site is published as a free digital-only book, I've also published a
  | [wordpress](wordpress/01_summary.md) | 1 article |
  | [writing](writing/01_summary.md) | 2 articles |
  | [zoho](zoho/01_summary.md) | 2 articles |
-
-
-547 articles
-129860 words
